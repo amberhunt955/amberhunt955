@@ -5,9 +5,9 @@
 ## Fun Facts About Me
   🎓 I'm finishing up a 15-week bootcamp at Per Scholas
 
-  👩🏻‍💻 Looking for my first role in software development
-
-  👷🏻‍♀️ Currently focusing on creating MERN stack applications
+  💼 Looking for my first role in software development
+  
+  👩🏻‍💻 Currently focusing on creating MERN stack applications
 
   👀 My long term interests include AI and tech ethics
 
