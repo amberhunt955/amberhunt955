@@ -3,11 +3,15 @@
 <p>Welcome to my GitHub!</p>
 
 ## Fun Facts About Me
-- I'm finishing up a 15-week bootcamp at Per Scholas
-- Looking for my first role in software development
-- Currently focusing on creating MERN stack applications
-- My long term interests include AI and tech ethics
-- One winter I worked in forestry and cut and planted 93,964 pine trees
+  🎓 I'm finishing up a 15-week bootcamp at Per Scholas
+
+  👩🏻‍💻 Looking for my first role in software development
+
+  👷🏻‍♀️ Currently focusing on creating MERN stack applications
+
+  👀 My long term interests include AI and tech ethics
+
+  🌲 One winter I worked in forestry and cut and planted 93,964 pine trees
 
 ## Languages & Tools
 
