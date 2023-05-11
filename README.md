@@ -3,7 +3,7 @@
 <p>Welcome to my GitHub!</p>
 
 ## Fun Facts About Me
-  🎓 I'm finishing up a 15-week bootcamp at Per Scholas
+  🎓 Recently graduated from a Per Scholas bootcamp
 
   💼 Looking for my first role in software development
   
