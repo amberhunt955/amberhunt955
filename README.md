@@ -7,7 +7,7 @@
 
   💼 Looking for my first role in software development
   
-  👩🏻‍💻 Currently focusing on creating MERN stack applications
+  👩🏻‍💻 Currently focusing on blogging my learning journey
 
   👀 My long term interests include AI and tech ethics
 
