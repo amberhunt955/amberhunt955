@@ -7,7 +7,7 @@
 
   💼 Looking for my first role in software development
   
-  👩🏻‍💻 Currently focusing on expanding my skills, and documenting my journey on my blog
+  👩🏻‍💻 Currently focusing on expanding my skills, learning python, and blogging
 
   👀 My long term interests include AI and tech ethics
 
