@@ -9,7 +9,7 @@
   
   👩🏻‍💻 Currently focusing on expanding my technical skillset
 
-  👀 My long term interests include AI and tech ethics
+  ✈️ My long term interests include AI and tech ethics
 
   🌲 One winter I worked in forestry and cut and planted 93,964 pine trees
 
