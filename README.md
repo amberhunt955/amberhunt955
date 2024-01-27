@@ -2,17 +2,6 @@
 
 <p>Welcome to my GitHub!</p>
 
-## Fun Facts About Me
-  🎓 Recently graduated from a Per Scholas bootcamp
-
-  💼 Looking for my first role in software development
-  
-  👩🏻‍💻 Currently focusing on expanding my technical skillset
-
-  ✈️ My long term interests include AI and tech ethics
-
-  🌲 One winter I worked in forestry and cut and planted 93,964 pine trees
-
 ## Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
